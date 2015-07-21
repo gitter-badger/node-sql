@@ -1,4 +1,6 @@
 # node-sql
+
+[![Join the chat at https://gitter.im/allulo/node-sql](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/allulo/node-sql?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _sql string builder for node_ - supports PostgreSQL, mysql, and sqlite dialects.
 
 Building SQL statements by hand is no fun, especially in a language which has clumsy support for multi-line strings.
